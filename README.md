@@ -1,2 +1,1 @@
-# cs467-design3
-Implementation of Design 3
+To run the code, simply type "python3 dash_visual.py" into the terminal and launch the access port in your browser.
