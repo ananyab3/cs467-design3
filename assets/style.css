@@ -1,0 +1,86 @@
+.heatmap-button {
+    background-color: #007bff; /* Blue background */
+    color: white; /* White text */
+    padding: 10px 20px; /* Some padding */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    margin-right: 10px; /* Add spacing between buttons */
+}
+
+/* Hover effect for heatmap-button */
+.heatmap-button:hover {
+    background-color: #0056b3; /* Darker blue background on hover */
+}
+
+.barplot-button {
+    background-color: #007bff; /* Blue background */
+    color: white; /* White text */
+    padding: 10px 20px; /* Some padding */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    margin-right: 10px; /* Add spacing between buttons */
+}
+
+/* Hover effect for heatmap-button */
+.barplot-button:hover {
+    background-color: #0056b3; /* Darker blue background on hover */
+}
+
+.scatterplot-button {
+    background-color: #007bff; /* Blue background */
+    color: white; /* White text */
+    padding: 10px 20px; /* Some padding */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    margin-right: 10px; /* Add spacing between buttons */
+}
+
+/* Hover effect for heatmap-button */
+.scatterplot-button:hover {
+    background-color: #0056b3; /* Darker blue background on hover */
+}
+
+/* Hide airline and sentiment dropdowns by default */
+.airline-dropdown, .sentiment-dropdown {
+    content: "Select Airline and Sentiment";
+    display: inline-block;
+}
+
+.update-scatterplot-button {
+    background-color: #636efb; /* purple background */
+    color: white; /* White text */
+    padding: 10px 20px; /* Some padding */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    margin-right: 10px; /* Add spacing between buttons */
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2); 
+    transition: background-color 0.3s, box-shadow 0.3s; /* Smooth transition for hover effects */
+    margin-top: 1px;
+}
+
+/* Hover effect for update-scatterplot-button */
+.update-scatterplot-button:hover {
+    background-color: #4a5ab7; 
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); 
+}
+
+
+.active-button {
+    background-color: #28a745; /* Green background */
+    color: white; /* White text */
+    padding: 10px 20px; /* Some padding */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    margin-right: 10px; /* Add spacing between buttons */
+}
+
+
+/* Hover effect for active-button */
+.active-button:hover {
+    background-color: #1e7e34; /* Darker green background on hover */
+}
