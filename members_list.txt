@@ -1,0 +1,4 @@
+Ananya Barman: Worked on prototype of visualizations and code for implementation.
+Anushant Singh: Worked on implemtation slides and code for implementation.
+Samridhi Verma: Worked on motivation, guiding questions, and code for implementation.
+Jason Zalewski: Worked on design slides and code for implementation.
